@@ -1305,5 +1305,7 @@
     "HOST_TOOLS": "Host Tools",
     "NUM_BLACKLISTED_PLAYERS": "Number Of Blacklisted Players: %llu",
     "CLEAR_BLACKLIST": "Clear Blacklist",
-    "CLEAR_BLACKLIST_DESC": "Allows players who were previously removed by vote kick to rejoin."
+    "CLEAR_BLACKLIST_DESC": "Allows players who were previously removed by vote kick to rejoin.",
+
+    "XML_MAPS": "XML Maps"
 }

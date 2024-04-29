@@ -1305,5 +1305,7 @@
     "HOST_TOOLS": "Host-Tools",
     "NUM_BLACKLISTED_PLAYERS": "Anzahl Blockierter Spieler: %llu",
     "CLEAR_BLACKLIST": "Blockliste Leeren",
-    "CLEAR_BLACKLIST_DESC": "Erlaubt Spielern die zuvor per Abstimmungskick entfernt wurden wieder beizutreten."
+    "CLEAR_BLACKLIST_DESC": "Erlaubt Spielern die zuvor per Abstimmungskick entfernt wurden wieder beizutreten.",
+
+    "XML_MAPS": "XML Maps"
 }

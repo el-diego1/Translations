@@ -596,7 +596,7 @@
     "NOCLIP_SPEED_MULTIPLIER": "No Clip Movement Speed Multiplier",
     "NORMAL": "Normal",
     "NOTE": "Note",
-    "NOTIFICATION_WELCOME_TEXT": "You're a MxMenu user now! :D",
+    "NOTIFICATION_WELCOME_TEXT": "You're an MxMenu user now! :D",
     "NOTIFICATION_WELCOME_TITLE": "Welcome",
     "NOTIFICATIONS": "Notifications",
     "NOTIFY": "Notify",
@@ -640,10 +640,10 @@
     "OUTFIT_TASK": "Body Armor",
     "OUTFIT_TEEF": "Accessories",
     "OUTFIT_TEXTURE": "Texture [0 - {}]",
-    "OUTFIT_UNK1": "Unknown 1",
-    "OUTFIT_UNK2": "Unknown 2",
-    "OUTFIT_UNK3": "Unknown 3",
-    "OUTFIT_UNK4": "Unknown 4",
+    "OUTFIT_UNK1": "Mouth",
+    "OUTFIT_UNK2": "Left Hand",
+    "OUTFIT_UNK3": "Right Hand",
+    "OUTFIT_UNK4": "Hip",
     "OUTFIT_UPPR": "Torso",
     "OUTFIT_VARIATION": "Variation [0 - {}]",
     "OUTFIT_WATCH": "Watch",
@@ -1305,5 +1305,7 @@
     "HOST_TOOLS": "Host Tools",
     "NUM_BLACKLISTED_PLAYERS": "Number Of Blacklisted Players: %llu",
     "CLEAR_BLACKLIST": "Clear Blacklist",
-    "CLEAR_BLACKLIST_DESC": "Allows players who were previously removed by vote kick to rejoin."
+    "CLEAR_BLACKLIST_DESC": "Allows players who were previously removed by vote kick to rejoin.",
+
+    "XML_MAPS": "XML Maps"
 }
