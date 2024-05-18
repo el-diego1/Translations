@@ -1169,7 +1169,6 @@
 
     "RSG_EMPLOYEE": "Funcionário da Rockstar",
     "TAKE_TWO_IP": "Endereço IP da Take-Two",
-
     "VEHICLE_ALLOW_ALL_IN_HEISTS": "Permitir todos os Veículos",
     "VEHICLE_ALLOW_ALL_IN_HEISTS_DESC": "Permite todos os Veículos que são banidos de serem utilizados em Golpes ou Serviços.",
     "PASSIVE": "Modo Passivo",
@@ -1187,7 +1186,6 @@
     "SPAWN_MAXED_DESC": "Determina se o Veículo spawnado estará completamente Modificado.",
     "FORCE_RELAY_CXN": "Força conexões Relay",
     "FORCE_RELAY_CXN_DESC": "Roteia a sua conexão através de servidores dedicados e outros Jogadores para esconder o seu endereço IP. Note que outros modders ainda podem ver seu endereço de IP por conta dele ainda ser vazado para outros Jogadores.",
-
     "CLAN_LOGO": "Logo do Comando",
     "GARAGE": "Garagem",
     "CUSTOM_VEH_WEAPONS": "Armas Customizadas de Veículos",
@@ -1207,7 +1205,6 @@
     "CUSTOM_VEH_WEAPONS_LIFETIME_DESC": "Tempo até o Míssil explodir caso ele não atinja nada.",
     "CUSTOM_VEH_WEAPONS_SMART_MISSILE": "Mísseis Inteligentes",
     "CUSTOM_VEH_WEAPONS_SMART_MISSILE_DESC": "Melhora a manobrabilidade dos Mísseis.",
-
     "ALLOW_COMMANDS": "Permitir Comandos",
     "TYPE_OUT_PLAYER_NAMES": "Escrever nomes dos Jogadores",
     "TYPE_OUT_PLAYER_NAMES_DESC": "Completa o nome do Jogador pra você quando você apertar a tecla escolhida enquanto digita no Chat.",
@@ -1250,7 +1247,6 @@
     "GOLD": "Ouro",
     "PLATINUM": "Platina",
     "JOINED_AGO": "Entrou há %s",
-	
     "DISABLE_OCEAN": "Desabilitar Oceano",
     "MODIFY_OCEAN": "Modificar Oceano",
     "ONLY_AFFECTS_YOUR_GAME": "Isso só vai afetar o seu jogo.",
@@ -1271,11 +1267,9 @@
     "OVERRIDE_CAM_DISTANCE_DESC": "Modifica a Distância entre a Câmera de espectador e o Jogador.",
     "CAM_DISTANCE": "Distância",
     "CAM_DISTANCE_DESC": "A Distância entre a Câmera e o Jogador.",
-
     "HIDDEN_FROM_PLAYER_LIST": "Escondido da Lista de Jogadores",
     "2TAKE1_USER": "Usuário de 2Take1Menu",
     "CHERAX_USER": "Usuário de Cherax",
-
     "GIVE_COLLECTIBLE": "Dar Coletável",
     "TRANSACTION_ERROR": "Erro de Transação",
     "START_SCRIPT": "Iniciar Script",
@@ -1292,20 +1286,23 @@
     "LOVE_LETTER_LUBE": "Love Letter Lube",
     "BLOCKED_BY_MOST_MENUS": "Bloqueado pela maioria dos menus.",
     "REQUIRES_HOST": "Você precisa ser o Host da Sessão para fazer isso.",
-
     "ANNOUNCEMENTS": "Announcements",
     "ANN_TRANSLATION": "Translation: {}",
-
     "CEO_JOIN": "CEO Join",
     "BLOCK_RECEIVE_PICKUP": "Bloquear Receber Coletável",
-
     "AIMBOT": "Aimbot",
     "TARGET_DRIVERS": "Target Drivers",
-
     "HOST_TOOLS": "Host Tools",
     "NUM_BLACKLISTED_PLAYERS": "Number Of Blacklisted Players: %llu",
     "CLEAR_BLACKLIST": "Clear Blacklist",
     "CLEAR_BLACKLIST_DESC": "Allows players who were previously removed by vote kick to rejoin.",
-
-    "XML_MAPS": "XML Maps"
+    "XML_MAPS": "XML Maps",
+    "ENABLE_BOTH_WEAPON_MARKS": "Enable Both Weapon Marks",
+    "ENABLE_BOTH_WEAPON_MARKS_DESC": "This prevents the game from removing the Mk I variant of the weapon from your inventory if you also have the Mk II variant.\nUse Ammu-Nation on this page to add the Mk I or II variant.",
+    "INFINITE_AMMO": "Infinite Ammo",
+    "HIDE_TYPING": "Suppress Typing Indicator",
+    "HIDE_TYPING_DESC": "Makes other players unable to see when you're drafting a chat message.",
+    "TYPING_INDICATOR_DESC": "Shows next to the chat field who is currently typing.",
+    "TIMESTAMP_IN_CHAT": "Timestamp In Messages",
+    "SPOOFING_HIDE_VEH_GOD_MODE": "Hide Vehicle Immortality"
 }
