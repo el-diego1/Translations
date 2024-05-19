@@ -1296,7 +1296,7 @@
     "NUM_BLACKLISTED_PLAYERS": "Anzahl Blockierter Spieler: %llu",
     "CLEAR_BLACKLIST": "Blockliste Leeren",
     "CLEAR_BLACKLIST_DESC": "Erlaubt Spielern die zuvor per Abstimmungskick entfernt wurden wieder beizutreten.",
-    "XML_MAPS": "XML Maps",
+    "UI_TAB_XML_MAPS": "XML Maps",
     "ENABLE_BOTH_WEAPON_MARKS": "Beide Waffen-Marks Aktivieren",
     "ENABLE_BOTH_WEAPON_MARKS_DESC": "Verhindert dass das Spiel die Mk I-Variante der Waffe aus dem Inventar entfernt, wenn du auch die Mk II-Variante besitzt.\nBenutze Ammu-Nation in diesem Tab, um die Mk I- oder II-Variante hinzuzufügen.",
     "INFINITE_AMMO": "Unendliche Munition",

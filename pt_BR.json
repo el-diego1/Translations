@@ -1296,7 +1296,7 @@
     "NUM_BLACKLISTED_PLAYERS": "Number Of Blacklisted Players: %llu",
     "CLEAR_BLACKLIST": "Clear Blacklist",
     "CLEAR_BLACKLIST_DESC": "Allows players who were previously removed by vote kick to rejoin.",
-    "XML_MAPS": "XML Maps",
+    "UI_TAB_XML_MAPS": "XML Maps",
     "ENABLE_BOTH_WEAPON_MARKS": "Enable Both Weapon Marks",
     "ENABLE_BOTH_WEAPON_MARKS_DESC": "This prevents the game from removing the Mk I variant of the weapon from your inventory if you also have the Mk II variant.\nUse Ammu-Nation on this page to add the Mk I or II variant.",
     "INFINITE_AMMO": "Infinite Ammo",
