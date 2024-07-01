@@ -1365,5 +1365,7 @@
 	"HOST_TOKEN_SPOOFING": "Host Token Spoofing",
 	"LEGIT": "Legit",
 	"AGGRESSIVE": "Aggressive",
-	"HIDE_SPOOFING_WHEN_HOST": "Hide Spoofing When Host"
+	"HIDE_SPOOFING_WHEN_HOST": "Hide Spoofing When Host",
+	"PRESETS": "Presets",
+	"FILTER_MULTIPLEXED_SESSIONS": "Filter Multiplexed Sessions"
 }

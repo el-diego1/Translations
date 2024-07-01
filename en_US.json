@@ -292,6 +292,7 @@
 	"FILL_AMMO_DESC": "Fills all of your ammo.",
 	"FILL_INVENTORY": "Fill Inventory",
 	"FILL_INVENTORY_DESC": "Refills snacks and armor",
+	"FILTER_MULTIPLEXED_SESSIONS": "Filter Multiplexed Sessions",
 	"FILTERS": "Filters",
 	"FIND_ERROR_IN_LOG": "Find error information in %appdata%\\MxMenuFiles\\Crash.log.",
 	"FIRE": "Fire",
@@ -824,6 +825,7 @@
 	"POS_X_Y": "Position (X, Y)",
 	"PREFIX": "Prefix",
 	"PRESENCE_SPOOFING": "Presence Spoofing",
+	"PRESETS": "Presets",
 	"PREVIEW": "Preview",
 	"PREVIEW_DESC": "Shows a render of what you have highlighted in front of you",
 	"PRIMARY": "Primary",
@@ -1364,7 +1366,5 @@
 	"YELLOW": "Yellow",
 	"YELLOWDARK": "Dark Yellow",
 	"YELLOWLIGHT": "Light Yellow",
-	"YES": "Yes",
-
-	"PRESETS": "Presets"
+	"YES": "Yes"
 }

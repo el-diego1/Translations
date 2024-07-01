@@ -824,6 +824,7 @@
 	"POS_X_Y": "Положение (X, Y)",
 	"PREFIX": "Префикс",
 	"PRESENCE_SPOOFING": "Подмена присутствия",
+	"PRESETS": "Примеры",
 	"PREVIEW": "Предварительный просмотр",
 	"PREVIEW_DESC": "Отображает рендеринг того, что вы выделили перед собой",
 	"PRIMARY": "Основной",
@@ -1364,5 +1365,7 @@
 	"YELLOW": "Желтый",
 	"YELLOWDARK": "Темно-желтый",
 	"YELLOWLIGHT": "Светло-желтый",
-	"YES": "Да"
+	"YES": "Да",
+	
+	"FILTER_MULTIPLEXED_SESSIONS": "Filter Multiplexed Sessions"
 }
